@@ -5,3 +5,6 @@ Features of Xerobounty:
 2)Fine for companies if they delay with report.
 3)Review system for both parties.
 4)Personal wallet for team and invidual users 
+
+
+##files will be uploaded soon##
